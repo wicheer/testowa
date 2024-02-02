@@ -21,7 +21,7 @@ function showMessage(response) {
 
     // Update text content and hide the name message
     document.getElementById("question").textContent =
-      "Aha, napewno?";
+      "Aha, Napewno?";
     document.getElementById("name").style.display = "none";
 
     // Add a mouseover event listener to the "No" button
