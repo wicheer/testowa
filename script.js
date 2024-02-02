@@ -79,7 +79,7 @@ function showMessage(response) {
     yesMessage.textContent = "Do zobaczenia 14 ;)";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/dance.gif";
+    document.getElementsByClassName("image")[0].src = "images/wygrana.png";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
